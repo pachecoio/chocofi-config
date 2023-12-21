@@ -458,9 +458,9 @@
             label = "SYM";
             bindings = <
              //╭──────────────┬──────────────┬──────────────┬──────────────┬──────────────╮     ╭──────────────┬──────────────┬──────────────┬──────────────┬──────────────╮
-                &kp LC(TAB)       &kp AT         &kp HASH       &kp AMPS       &kp PERCENT          &kp CARET      &kp PLUS       &kp ASTRK      &kp KP_LPAR   &kp KP_RPAR
+                &kp LC(TAB)       &kp AT         &kp HASH       &kp AMPS       &kp PERCENT          &kp CARET      &kp PLUS       &kp ASTRK      &curr_deg      xxx
              //├──────────────┼──────────────┼──────────────┼──────────────┼──────────────┤     ├──────────────┼──────────────┼──────────────┼──────────────┼──────────────┤
-                &kp ESCAPE        &kp GRAVE      &kp BSLH       &kp PIPE       &kp TILDE            &kp UNDER      &kp MINUS      &kp SLASH      &kp LBKT     &kp RBKT
+                &kp ESCAPE        &kp GRAVE      &kp BSLH       &kp PIPE       &kp TILDE            &kp UNDER      &kp MINUS      &kp SLASH      &kp EQUAL      &kp EXCL
              //├──────────────┼──────────────┼──────────────┼──────────────┼──────────────┤     ├──────────────┼──────────────┼──────────────┼──────────────┼──────────────┤
                 xxx            &kp RA(GRAVE)  &kp RA(E)      &kp LT         xxx                  xxx            &kp GT         &kp SEMI       &kp COLON      xxx
              //╰──────────────┴──────────────┼──────────────┼──────────────┼──────────────┤     ├──────────────┼──────────────┼──────────────┼──────────────┴──────────────╯
